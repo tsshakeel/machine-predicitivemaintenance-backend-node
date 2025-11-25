@@ -23,39 +23,3 @@ DevOps,"Docker, PM2, GitHub Actions"
 Utils,"Joi (validation), dotenv (env)"
 
 
-machine-alert-system/
-├── src/
-│   ├── config/          # Supabase client
-│   │   └── supabase.js
-│   ├── models/          # OOP Classes
-│   │   ├── SensorData.js  # Parsing + threshold check
-│   │   └── Machine.js     # Summary + prediction
-│   ├── services/        # Alert logic
-│   │   └── AlertService.js
-│   ├── utils/           # Helpers
-│   │   ├── anomalyDetector.js
-│   │   └── logger.js
-│   ├── routes/          # API (with Swagger JSDoc)
-│   │   └── machinetimedown.js
-│   ├── swagger.js       # OpenAPI config
-│   └── app.js           # Express server + Socket.io
-├── tests/               # Jest unit tests
-│   └── machine.test.js
-├── docker/              # Containerization
-│   └── Dockerfile
-├── .github/workflows/   # CI/CD
-│   └── ci.yml
-├── .env.example         # Env template
-├── package.json         # Deps + scripts
-├── nodemon.json         # Dev watch config
-├── ecosystem.config.js  # PM2 prod config
-└── README.md            # This file
-
-Method,Endpoint,Description
-GET,/data,Fetch all rows (ordered by Date desc)
-POST,/data,Insert row + threshold check/alert
-PUT,/data/{date},Update by Date + re-check threshold
-DELETE,/data/{date},Delete by Date
-GET,/data/{machineId}/summary,"Machine stats (avg vibration, alerts)"
-GET,/data/{machineId}/predict,Predict next vibration (linear regression)
-GET,/health,Server uptime/status
