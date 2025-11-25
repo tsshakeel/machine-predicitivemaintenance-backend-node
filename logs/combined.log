@@ -1,0 +1,139 @@
+{"level":"error","message":"Realtime failed: supabase.channel is not a function","service":"machine-alert-system","stack":"TypeError: supabase.channel is not a function\n    at AlertService.subscribeToRealtime (file:///D:/machine-crud/src/services/AlertService.js:39:10)\n    at file:///D:/machine-crud/src/app.js:31:14\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)","timestamp":"2025-11-25T16:45:24.899Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:45:24.908Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:45:24.908Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:46:02.151Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:46:02.156Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:46:02.157Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:46:18.921Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:46:19.118Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:46:19.119Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:46:19.125Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:46:19.125Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:47:13.150Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:47:13.304Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:47:13.305Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:47:13.309Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:47:13.310Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:47:51.710Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:47:51.851Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:47:51.852Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:47:51.856Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:47:51.856Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.458Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.595Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:49:15.595Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.599Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.599Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.688Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.807Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:49:15.809Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.813Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.815Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.815Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.815Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:15.816Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.156Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.304Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:49:19.305Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.309Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.309Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.154Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.305Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:49:19.305Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.308Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.310Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.311Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.311Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:49:19.311Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:04.879Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.022Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:05.022Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.027Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.027Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:04.879Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.024Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:05.025Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.029Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.031Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.031Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.032Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:05.032Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.239Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.490Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:11.491Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.497Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.497Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.241Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.489Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:11.490Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.493Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.496Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.497Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.499Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:11.500Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.277Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.565Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:34.567Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.568Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.573Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.574Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.307Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.588Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:34.589Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.590Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.593Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.594Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.595Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.595Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:34.596Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.494Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.637Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:38.638Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.638Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.641Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.641Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.509Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.647Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","status":"SUBSCRIBED","timestamp":"2025-11-25T16:50:38.648Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.649Z"}
+{"level":"warn","message":"Port 4000 in use. Retrying on 4001...","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.651Z"}
+{"level":"info","message":"Server running → http://localhost:4000","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.653Z"}
+{"level":"info","message":"Swagger → http://localhost:4000/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.653Z"}
+{"level":"info","message":"Server running → http://localhost:4001","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.653Z"}
+{"level":"info","message":"Swagger → http://localhost:4001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:50:38.654Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:51:44.576Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:51:44.704Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:51:44.708Z"}
+{"level":"info","message":"Server running → http://localhost:3001","service":"machine-alert-system","timestamp":"2025-11-25T16:51:44.712Z"}
+{"level":"info","message":"Swagger → http://localhost:3001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:51:44.713Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","timestamp":"2025-11-25T16:51:54.713Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.648Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.820Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.823Z"}
+{"level":"info","message":"Server running → http://localhost:3001","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.826Z"}
+{"level":"info","message":"Swagger → http://localhost:3001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.827Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.643Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.820Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.823Z"}
+{"level":"warn","message":"Port 3001 in use. Retrying on 3002...","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.826Z"}
+{"level":"info","message":"Server running → http://localhost:3001","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.828Z"}
+{"level":"info","message":"Swagger → http://localhost:3001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.830Z"}
+{"level":"info","message":"Server running → http://localhost:3002","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.831Z"}
+{"level":"info","message":"Swagger → http://localhost:3002/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:53:45.832Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","timestamp":"2025-11-25T16:53:55.835Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","timestamp":"2025-11-25T16:53:55.835Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:54:06.828Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.027Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.030Z"}
+{"level":"info","message":"Server running → http://localhost:3001","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.037Z"}
+{"level":"info","message":"Swagger → http://localhost:3001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.037Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:54:06.830Z"}
+{"level":"info","message":"Nodemailer transporter initialized","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.030Z"}
+{"level":"info","message":"AlertService initialized once","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.035Z"}
+{"level":"warn","message":"Port 3001 in use. Retrying on 3002...","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.040Z"}
+{"level":"info","message":"Server running → http://localhost:3001","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.042Z"}
+{"level":"info","message":"Swagger → http://localhost:3001/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.043Z"}
+{"level":"info","message":"Server running → http://localhost:3002","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.044Z"}
+{"level":"info","message":"Swagger → http://localhost:3002/api-docs","service":"machine-alert-system","timestamp":"2025-11-25T16:54:07.044Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","timestamp":"2025-11-25T16:54:17.034Z"}
+{"level":"info","message":"Realtime status:","service":"machine-alert-system","timestamp":"2025-11-25T16:54:17.049Z"}

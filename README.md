@@ -1,1 +1,1 @@
-# machine-predicitivemaintenance-backend-node
+# machine-predictive-maintenance-backend-node 
